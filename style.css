@@ -31,7 +31,7 @@ a{
     text-decoration: none;
     color: #e8eaf6;
 }
-#name {
+#home {
     color: #e1c7d9;
     text-decoration: none;
 }
@@ -48,8 +48,11 @@ a{
 html{
     background-color: #9ebac9;
 }
-p{
+p, ul{
     font-family: 'Cabin Condensed', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     color: #e8eaf6;
+}
+ul{
+    text-decoration: underline;
 }
