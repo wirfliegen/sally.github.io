@@ -53,6 +53,14 @@ p, ul{
     font-size: 25px;
     color: #e8eaf6;
 }
+
 ul{
     text-decoration: underline;
 }
+
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
+    color: #e8eaf6;
+}
+
